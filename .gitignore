@@ -1,0 +1,11 @@
+node_modules/
+*.tgz
+.yarn-integrity
+.env
+.next
+
+#ParcelJS cache folder
+.cache/
+
+#ParcelJS build folder
+dist/
