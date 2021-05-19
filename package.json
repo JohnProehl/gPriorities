@@ -14,4 +14,9 @@
     "build": "parcel build src/html/*.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "node.js": "0.0.1-security",
+    "parcel": "^2.0.0-beta.2",
+    "yarn": "^1.22.10"
+  }
 }
