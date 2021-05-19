@@ -1,0 +1,17 @@
+{
+  "name": "gPriorities",
+  "version": "1.0.0",
+  "description": "Automated task management for Gartner AMs, AEs, and SMs.",
+  "main": "index.html",
+  "repository": "git+https://github.com/JackProehl/gPriorities.git",
+  "author": "JackProehl <johnproehl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JackProehl/gPriorities/issues"
+  },
+  "homepage": "https://github.com/JackProehl/gPriorities#readme",
+  "scripts": {
+    "build": "parcel build src/html/*.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
