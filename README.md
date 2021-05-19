@@ -1,1 +1,1 @@
-# gPrioritize
+# gPriorities
